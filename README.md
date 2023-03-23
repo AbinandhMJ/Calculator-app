@@ -9,6 +9,7 @@
 - Its Developed as an inspiration from the original **IOS** Calculator Application <br/> 
 - That runs on **SWIFT** and widely used in **iphones** and **apple products**.<br/>
 <br/>
-# Sugestions:
+## Sugestions:
 - Any suggestions and feedback regarding this app are welcome.<br/>
+
 [Click Here to View](https://iphonecalculatorreplica.netlify.app/)
